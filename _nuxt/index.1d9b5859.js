@@ -1,1 +1,0 @@
-import{u as e}from"./vue.f36acd1f.46e65c9b.js";import{q as t,m as o,s}from"./entry.74e89eb7.js";const n=s("h1",null,"A7新林口-社區網站: 生活指引資訊平台",-1),a=[n],l={__name:"index",setup(c){return e({title:"A7-生活指引",meta:[{name:"description",content:"A7新林口-社區網站: 生活指引資訊平台 "}]}),(r,_)=>(o(),t("div",null,a))}};export{l as default};
