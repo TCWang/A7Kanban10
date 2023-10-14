@@ -27,7 +27,7 @@
       >
         <div class="lg:space-x-4 lg:flex-grow">
           <a
-            href="/restaurant"
+            href="/city/A7/restaurant"
             class="navbar-brand block mt-1 lg:inline-block lg:mt-0 text-indigo-200 hover:text-yellow-200"
           >
             餐廳推薦
@@ -45,7 +45,7 @@
             在地服務
           </a>
           <a
-            href="/buying"
+            href="/gbuying"
             class="navbar-brand block mt-1 lg:inline-block lg:mt-0 text-indigo-200 hover:text-yellow-200"
           >
             團購熱搜

@@ -5,6 +5,8 @@
     <!-- <RestaurantDetailAttributes :features="restaurant.features" />
     <RestaurantDetailDescription :description="restaurant.description" />
     <RestaurantDetailContact /> -->
+
+    <RestaurantBack />
   </div>
 </template>
 
@@ -28,7 +30,8 @@ if (!restaurant.value) {
 }
 
 useHead({
-  title: capitalizeFirstLetter(route.params.name),
+  title: `餐廳:${route.params.name}`,
+  // title: capitalizeFirstLetter(route.params.name),
 });
 
 definePageMeta({

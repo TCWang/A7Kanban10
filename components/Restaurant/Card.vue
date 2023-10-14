@@ -1,6 +1,6 @@
 <template>
   <div
-    class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[200px]"
+    class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[190px] md:h-[220px]"
     @click="navigateTo(`/restaurant/${restaurant.name}-${restaurant.id}`)"
   >
     <div
@@ -14,9 +14,9 @@
 
       <div class="p-4 flex flex-col">
         <div>
-          <h1 class="">
+          <p class="text-bold">
             {{ restaurant.name }}
-          </h1>
+          </p>
           <!-- <p class="text-gray-700">
             {{ restaurant.description }}
           </p> -->
