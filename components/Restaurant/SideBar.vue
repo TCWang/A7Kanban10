@@ -78,7 +78,7 @@
 </template>
 
 <script setup>
-const { types } = useTypes();
+const { types } = useRestaurants();
 const modal = ref({
   type: false,
   location: false,
