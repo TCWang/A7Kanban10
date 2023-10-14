@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full">
+  <div class="flex flex-row flex-wrap">
     <GbuyingCard
       v-for="gbuying in gbuyings"
       :key="gbuying.id"

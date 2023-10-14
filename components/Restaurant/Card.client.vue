@@ -1,10 +1,16 @@
 <template>
   <div
-    class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[190px] md:h-[220px]"
-    @click="navigateTo(`/restaurant/${restaurant.name}-${restaurant.id}`)"
+    class="relative shadow border-hidden w-full overflow-hidden mb-5 cursor-pointer h-[220px] md:h-[220px]"
   >
+    <img
+      class="absolute w-7 right-2 top-1 z-20"
+      :src="favored ? heartFilled : heartOutline"
+      alt=""
+      @click="emit('favor', restaurant.id)"
+    />
     <div
       class="flex flex-row md:flex-row h-full bg-zinc-100 rounded-2xl shadow-md"
+      @click="navigateTo(`/restaurant/${restaurant.name}-${restaurant.id}`)"
     >
       <NuxtImg
         :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/restaurant/${restaurant.figure}`"
@@ -79,7 +85,17 @@
 </template>
 
 <script setup>
+import heartFilled from "@/assets/img/logo/LOG-02-heartFilled.png";
+import heartOutline from "@/assets/img/logo/LOG-02-heartOutline.png";
+
 const props = defineProps({
   restaurant: Object,
+  favored: Boolean,
 });
+
+const emit = defineEmits(["favor"]);
+
+// const favored = useState(`favored-${props.restaurant.id}`, () => {
+//   return false;
+// });
 </script>

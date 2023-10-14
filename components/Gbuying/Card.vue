@@ -1,22 +1,20 @@
 <template>
   <div
-    class="max-x-screen-xl flex-row flex-wrap shadow border-hidden mb-1 cursor-pointer w-full md:w-[500px] h-[190px] md:h-[220px]"
+    class="flex-row flex-wrap shadow border-hidden mb-1 cursor-pointer w-[400px] md:w-[500px] h-[190px] md:h-[220px]"
     @click="navigateTo(`/gbuying/${gbuying.name}`)"
   >
-    <div
-      class="flex flex-row md:flex-row h-full bg-zinc-100 rounded-2xl shadow-md"
-    >
+    <div class="flex flex-row h-full bg-zinc-100 rounded-2xl shadow-md">
       <NuxtImg
         :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/gbuying/${gbuying.figure}`"
         alt=""
-        class="w-[200px] h-[200px] rounded-xl transform hover:scale-110 duration-200"
+        class="w-[120px] md:w-[200px] h-[120px] md:h-[200px] rounded-xl transform hover:scale-110 duration-200"
       />
 
       <div class="p-4 flex flex-col">
         <div>
-          <p class="text-bold text-lg">
+          <h3 class="">
             {{ gbuying.name }}
-          </p>
+          </h3>
           <!-- <p class="text-gray-700">
             {{ restaurant.description }}
           </p> -->

@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   //   base: "/A7Kanban10/",
   // },
 
-  modules: ["@nuxtjs/tailwindcss", "@nuxt/image-edge"],
+  modules: ["@nuxtjs/tailwindcss", "@nuxt/image-edge", "@vueuse/nuxt"],
 
   css: ["@/assets/css/tailwind.css"],
 
