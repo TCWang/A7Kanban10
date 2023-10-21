@@ -1,6 +1,6 @@
 <template>
   <div v-if="restaurant">
-    <p>餐廳介紹</p>
+    <h1>餐廳介紹</h1>
     <RestaurantDetailHero :restaurant="restaurant" />
     <!-- <RestaurantDetailAttributes :features="restaurant.features" />
     <RestaurantDetailDescription :description="restaurant.description" />
@@ -30,7 +30,7 @@ if (!restaurant.value) {
 }
 
 useHead({
-  title: `餐廳:${route.params.name}`,
+  title: `餐廳推薦:${route.params.name}`,
   // title: capitalizeFirstLetter(route.params.name),
 });
 

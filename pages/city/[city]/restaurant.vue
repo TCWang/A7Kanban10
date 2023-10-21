@@ -27,7 +27,7 @@
 const route = useRoute();
 
 useHead({
-  title: `生活指引-${route.params.city} 的餐廳`,
+  title: `生活指引-餐廳推薦: ${route.params.city} 生活圈`,
 });
 
 definePageMeta({
