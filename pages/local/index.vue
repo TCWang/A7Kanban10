@@ -20,6 +20,9 @@
           >
             Go Back
           </button>
+          <div class="bg-zinc-100 rounded-md shadow-md">
+            <p>在地服務</p>
+          </div>
         </div>
       </template>
     </NuxtErrorBoundary>
