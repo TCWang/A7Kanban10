@@ -4,9 +4,9 @@
   >
     <input
       type="text"
-      class="py-3 px-5 w-auto text-lg sm:text-xl md:text-2xl xl:text-3xl rounded-full focus:outline-none"
+      class="py-3 px-5 w-full text-lg sm:text-xl md:text-2xl xl:text-3xl rounded-full focus:outline-none"
       :class="cityError ? 'border-red-500 border' : ''"
-      placeholder="站別 A7, A8, A9 搜尋 ..."
+      placeholder="請以 A7, A8, A9, 桃園 搜尋 ..."
       v-model="city"
     />
     <button class="bg-sky-500 px-5 text-white w-[100px]" @click="handleSearch">

@@ -3,11 +3,7 @@
     <NuxtErrorBoundary>
       <!-- Groud Buying -->
       <h1>採購指南</h1>
-      <NuxtImg
-        src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-under-construction.webp"
-        alt="Under Construction"
-        class="w-[200px] float-left"
-      ></NuxtImg>
+      <ProcurementTable />
       <!-- <GbuyingCards /> -->
 
       <template #error="{ error }">
