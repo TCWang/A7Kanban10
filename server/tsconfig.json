@@ -1,7 +1,7 @@
 {
   "extends": "../.nuxt/tsconfig.server.json",
   "compilerOptions": {
-    "outDir": "./",
+    "outDir": "./dist",
     "baseUrl": ".",
     "target": "esnext"
   },
