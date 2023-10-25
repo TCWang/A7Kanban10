@@ -15,35 +15,42 @@
       </p>
       <h2>網站架構</h2>
       <ol class="flex flex-wrap space-x-4">
-        <li class="bg-zinc-100 m-2 p-2 shadow-md rounded-xl">
-          城市探索
-          <ul class="ml-2 mb-4 w-28">
-            <li>地區介紹</li>
-            <li>都市規劃</li>
-            <li>交通指南</li>
-            <li>新推建案</li>
-            <li>房市行情</li>
-          </ul>
+        <li class="bg-slate-300 m-2 p-2 shadow-md rounded-xl">
+          <NuxtLink to="https://a7kanban08.netlify.app/">
+            城市探索
+            <ul class="ml-2 mb-4 w-28">
+              <li>地區介紹</li>
+              <li>都市規劃</li>
+              <li>交通指南</li>
+              <li>新推建案</li>
+              <li>房市行情</li>
+            </ul>
+          </NuxtLink>
+        </li>
+
+        <li class="bg-slate-200 m-2 p-2 shadow-md rounded-xl">
+          <NuxtLink to="https://a7kanban09.netlify.app/">
+            地方行政
+            <ul class="ml-2 mb-4 w-28">
+              <li>區域建設</li>
+              <li>居民期望</li>
+              <li>市府交流</li>
+              <li>議員交流</li>
+              <li>里長交流</li>
+            </ul>
+          </NuxtLink>
         </li>
         <li class="bg-slate-200 m-2 p-2 shadow-md rounded-xl">
-          地方行政
-          <ul class="ml-2 mb-4 w-28">
-            <li>區域建設</li>
-            <li>居民期望</li>
-            <li>市府交流</li>
-            <li>議員交流</li>
-            <li>里長交流</li>
-          </ul>
-        </li>
-        <li class="bg-slate-200 m-2 p-2 shadow-md rounded-xl">
-          生活指引
-          <ul class="ml-2 mb-4 w-28">
-            <li>餐廳推薦</li>
-            <li>購物黃頁</li>
-            <li>在地服務</li>
-            <li>團購熱搜</li>
-            <li>採購指南</li>
-          </ul>
+          <NuxtLink to="https://a7kanban10.netlify.app/">
+            生活指引
+            <ul class="ml-2 mb-4 w-28">
+              <li>餐廳推薦</li>
+              <li>購物黃頁</li>
+              <li>在地服務</li>
+              <li>團購熱搜</li>
+              <li>採購指南</li>
+            </ul>
+          </NuxtLink>
         </li>
         <li class="bg-zinc-100 m-2 p-2 shadow-md rounded-xl">
           健康休閒
