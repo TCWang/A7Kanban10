@@ -15,7 +15,7 @@
       </p>
       <h2>網站架構</h2>
       <ol class="flex flex-wrap space-x-4">
-        <li class="bg-slate-300 m-2 p-2 shadow-md rounded-xl">
+        <li class="bg-slate-200 m-2 p-2 shadow-md rounded-xl">
           <NuxtLink to="https://a7kanban08.netlify.app/">
             城市探索
             <ul class="ml-2 mb-4 w-28">
@@ -40,7 +40,7 @@
             </ul>
           </NuxtLink>
         </li>
-        <li class="bg-slate-200 m-2 p-2 shadow-md rounded-xl">
+        <li class="bg-slate-300 m-2 p-2 shadow-md rounded-xl">
           <NuxtLink to="https://a7kanban10.netlify.app/">
             生活指引
             <ul class="ml-2 mb-4 w-28">

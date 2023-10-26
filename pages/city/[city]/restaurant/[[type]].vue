@@ -1,6 +1,10 @@
 <template>
   <div>
-    <RestaurantCards v-if="restaurants.length" :restaurants="restaurants" />
+    <!-- <RestaurantCards v-if="restaurants.length" :restaurants="restaurants" /> -->
+    <RestaurantCards
+      v-if="restaurantsOrganized.filtered.length"
+      :restaurants="restaurantsOrganized.filtered"
+    />
 
     <!-- <RestaurantCards /> -->
     <h1 v-else class="text-red-600">沒有餐廳符合搜尋條件</h1>
@@ -9,11 +13,11 @@
 
 <script setup>
 const route = useRoute();
-const restaurants = await useFetchRestaurants(route.params.city, {
-  //   minPrice: route.query.minPrice,
-  //   maxPrice: route.query.maxPrice,
-  type: route.params.type,
-});
+// const restaurants = await useFetchRestaurants(route.params.city, {
+//   //   minPrice: route.query.minPrice,
+//   //   maxPrice: route.query.maxPrice,
+//   type: route.params.type,
+// });
 
 // watch(
 //   () => route.query,
@@ -21,4 +25,32 @@ const restaurants = await useFetchRestaurants(route.params.city, {
 //     window.location.reload(true);
 //   }
 // );
+
+import restaurants from "@/data/restaurants.json";
+
+// const restaurantsOrganized = {
+//   filtered: [...restaurants].filter(
+//     (restaurant) =>
+//       restaurant.category === route.params.city &&
+//       restaurant.type === route.params.type
+//   ),
+// };
+// const restaurantsOrganized = {
+//   filtered: [...restaurants].filter(
+//     (restaurant) => restaurant.category === route.params.city
+//   ),
+// };
+
+const restaurantsOrganized = {
+  filtered: [...restaurants].filter((restaurant) => {
+    if (route.params.type === "") {
+      return restaurant.category === route.params.city;
+    } else {
+      return (
+        restaurant.category === route.params.city &&
+        restaurant.type === route.params.type
+      );
+    }
+  }),
+};
 </script>
