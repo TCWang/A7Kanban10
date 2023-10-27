@@ -42,15 +42,20 @@ import restaurants from "@/data/restaurants.json";
 // };
 
 const restaurantsOrganized = {
-  filtered: [...restaurants].filter((restaurant) => {
-    if (route.params.type === "") {
-      return restaurant.category === route.params.city;
-    } else {
-      return (
-        restaurant.category === route.params.city &&
-        restaurant.type === route.params.type
-      );
-    }
-  }),
+  filtered: [...restaurants]
+    .filter((restaurant) => {
+      if (route.params.type === "" || route.params.type === "所有餐廳") {
+        return (
+          restaurant.category.toLowerCase() === route.params.city.toLowerCase()
+        );
+      } else {
+        return (
+          restaurant.category.toLowerCase() ===
+            route.params.city.toLowerCase() &&
+          restaurant.type === route.params.type
+        );
+      }
+    })
+    .sort((a, b) => b.id.localeCompare(a.id)),
 };
 </script>

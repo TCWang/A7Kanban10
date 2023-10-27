@@ -6,7 +6,7 @@
       alt=""
     />
     <div class="w-full md:w-1/2">
-      <h1 class="mt-1">{{ restaurant.name }}</h1>
+      <h1 class="mt-1">{{ restaurant.type }} - {{ restaurant.name }}</h1>
       <div class="text-slate-500 text-lg mt-3 border-b pb-5 justify-between">
         <div class="flex-col">
           <p class="">

@@ -20,9 +20,7 @@
 
       <div class="p-4 flex flex-col">
         <div>
-          <p class="text-bold">
-            {{ restaurant.name }}
-          </p>
+          <p class="text-bold">{{ restaurant.type }} - {{ restaurant.name }}</p>
           <!-- <p class="text-gray-700">
             {{ restaurant.description }}
           </p> -->
