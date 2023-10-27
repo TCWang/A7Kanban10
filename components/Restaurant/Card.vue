@@ -13,7 +13,7 @@
       @click="navigateTo(`/restaurant/${restaurant.name}-${restaurant.id}`)"
     >
       <NuxtImg
-        :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/restaurant/${restaurant.figure}`"
+        :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/restaurant/${restaurant.figureLogo}`"
         alt=""
         class="w-[150px] sm:w-[200px] md:w-[250px] lg:w-[300px] h-[150px] sm:h-full rounded-xl transform hover:scale-110 duration-200"
       />
