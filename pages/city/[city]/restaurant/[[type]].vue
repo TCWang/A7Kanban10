@@ -56,6 +56,6 @@ const restaurantsOrganized = {
         );
       }
     })
-    .sort((a, b) => b.id.localeCompare(a.id)),
+    .sort((a, b) => a.address.localeCompare(b.address)),
 };
 </script>

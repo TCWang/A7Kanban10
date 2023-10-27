@@ -4,6 +4,7 @@
     <p>
       <span class="text-red-600">可點選照片進入餐廳詳細介紹</span>,
       請輸入查詢區域 (A7, A8, A9, 桃園)及使用下拉選單選擇餐廳種類。
+      餐廳依據地址排序
     </p>
 
     <RestaurantCard
