@@ -1,14 +1,11 @@
 <template>
-  <div class="mt-2">
+  <div class="mt-2 flex flex-col md:flex-row">
     <NuxtErrorBoundary>
-      <!-- Groud Buying -->
-      <h1>購物黃頁</h1>
-      <NuxtImg
-        src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-under-construction.webp"
-        alt="Under Construction"
-        class="w-[200px] mx-auto"
-      ></NuxtImg>
-      <!-- <GbuyingCards /> -->
+      <!-- SHOP SIDE BAR -->
+      <ShopSideBar />
+
+      <!-- Nuxt Page  -->
+      <NuxtPage />
 
       <template #error="{ error }">
         <div class="text-center mx-auto flex flex-col">
@@ -30,7 +27,7 @@
 const route = useRoute();
 
 useHead({
-  title: `購物黃頁`,
+  title: `生活指引-採購黃頁`,
 });
 
 definePageMeta({

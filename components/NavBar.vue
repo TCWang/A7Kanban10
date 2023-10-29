@@ -33,7 +33,7 @@
             餐廳推薦
           </a>
           <a
-            href="/shopping"
+            href="/area/1.樂善國小/shop"
             class="navbar-brand block mt-1 lg:inline-block lg:mt-0 text-indigo-200 hover:text-yellow-200"
           >
             購物黃頁

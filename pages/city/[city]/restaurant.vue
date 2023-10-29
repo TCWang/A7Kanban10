@@ -1,7 +1,7 @@
 <template>
   <div class="mt-2 flex flex-col md:flex-row">
     <NuxtErrorBoundary>
-      <!-- CAR SIDE BAR -->
+      <!-- Restaurant SIDE BAR -->
       <RestaurantSideBar />
 
       <!-- Nuxt Page  -->
