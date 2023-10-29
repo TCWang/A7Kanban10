@@ -46,13 +46,16 @@ import shops from "@/data/shops.json";
 const shopsOrganized = {
   filtered: [...shops]
     .filter((shop) => {
-      if (route.params.area === "0.A7重劃區" && route.params.typec === "所有") {
+      if (
+        route.params.area === "0.A7重劃區" &&
+        (route.params.typec === "所有" || route.params.typec === "")
+      ) {
         return true;
       } else {
         if (route.params.area === "0.A7重劃區") {
           return shop.type === route.params.typec;
         } else {
-          if (route.params.typec === "所有") {
+          if (route.params.typec === "所有" || route.params.typec === "") {
             return shop.category === route.params.area;
           } else {
             return (
