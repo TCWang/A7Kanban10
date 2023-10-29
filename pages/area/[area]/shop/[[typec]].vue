@@ -7,7 +7,7 @@
     />
 
     <!-- <RestaurantCards /> -->
-    <h1 v-else class="text-red-600">沒有餐廳符合搜尋條件</h1>
+    <h1 v-else class="text-red-600">沒有商店符合搜尋條件</h1>
   </div>
 </template>
 
@@ -28,29 +28,39 @@ const route = useRoute();
 
 import shops from "@/data/shops.json";
 
-// const restaurantsOrganized = {
-//   filtered: [...restaurants].filter(
-//     (restaurant) =>
-//       restaurant.category === route.params.city &&
-//       restaurant.type === route.params.type
-//   ),
-// };
-// const restaurantsOrganized = {
-//   filtered: [...restaurants].filter(
-//     (restaurant) => restaurant.category === route.params.city
-//   ),
+// const shopsOrganized = {
+//  filtered: [...shops]
+//    .filter((shop) => {
+//      if (route.params.typec === "" || route.params.typec === "所有") {
+//        return shop.category === route.params.area;
+//      } else {
+//        return (
+//          shop.category === route.params.area &&
+//          shop.type === route.params.typec
+//        );
+//      }
+//    })
+//    .sort((a, b) => a.address.localeCompare(b.address)),
 // };
 
 const shopsOrganized = {
   filtered: [...shops]
     .filter((shop) => {
-      if (route.params.typec === "" || route.params.typec === "所有") {
-        return shop.category === route.params.area;
+      if (route.params.area === "0.A7重劃區" && route.params.typec === "所有") {
+        return true;
       } else {
-        return (
-          shop.category === route.params.area &&
-          shop.type === route.params.typec
-        );
+        if (route.params.area === "0.A7重劃區") {
+          return shop.type === route.params.typec;
+        } else {
+          if (route.params.typec === "所有") {
+            return shop.category === route.params.area;
+          } else {
+            return (
+              shop.category === route.params.area &&
+              shop.type === route.params.typec
+            );
+          }
+        }
       }
     })
     .sort((a, b) => a.address.localeCompare(b.address)),
