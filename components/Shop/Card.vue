@@ -1,8 +1,14 @@
 <template>
-  <!-- <div
-    class="relative shadow border-hidden w-[600px] md:w-[600px] overflow-hidden mb-5 cursor-pointer h-[220px] md:h-[220px]"
-  > -->
-  <div class="shadow-lg w-full">
+  <div
+    class="relative shadow border-hidden w-full overflow-hidden mb-5 cursor-pointer h-[220px] md:h-[220px]"
+  >
+    <!-- <div class="shadow-lg w-full"> -->
+    <img
+      class="absolute w-7 right-2 top-1 z-20"
+      :src="favored ? heartFilled : heartOutline"
+      alt=""
+      @click="emit('favor', shop.id)"
+    />
     <div
       class="m-2 flex flex-row md:flex-row h-full bg-zinc-100 rounded-2xl shadow-md"
       @click="navigateTo(`/shop/${shop.name}-${shop.id}`)"
@@ -58,9 +64,15 @@
 </template>
 
 <script setup>
+import heartFilled from "@/assets/img/logo/LOG-02-heartFilled.png";
+import heartOutline from "@/assets/img/logo/LOG-02-heartOutline.png";
+
 const props = defineProps({
   shop: Object,
+  favored: Boolean,
 });
+
+const emit = defineEmits(["favor"]);
 </script>
 
 <style scoped></style>

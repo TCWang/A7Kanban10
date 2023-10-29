@@ -7,7 +7,13 @@
       A7重劃區 的商店黃頁。
     </p>
 
-    <ShopCard v-for="shop in shops" :key="shop.id" :shop="shop" />
+    <ShopCard
+      v-for="shop in shops"
+      :key="shop.id"
+      :shop="shop"
+      @favor="handleFavorite"
+      :favored="shop.id in favorite"
+    />
   </div>
 </template>
 
@@ -15,4 +21,17 @@
 const props = defineProps({
   shops: Array,
 });
+
+const favorite = useLocalStorage("favorite", {});
+
+const handleFavorite = (id) => {
+  if (id in favorite.value) {
+    delete favorite.value[id];
+  } else {
+    favorite.value = {
+      ...favorite.value,
+      [id]: true,
+    };
+  }
+};
 </script>
