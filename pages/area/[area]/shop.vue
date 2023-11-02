@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-2 flex flex-col md:flex-row">
+  <div class="mt-2 flex flex-col">
     <NuxtErrorBoundary>
       <!-- SHOP SIDE BAR -->
       <ShopSideBar />
