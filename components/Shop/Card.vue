@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative shadow border-hidden w-full lg:w-1/2 overflow-hidden mb-5 cursor-pointer h-[220px] md:h-[220px]"
+    class="relative shadow border-hidden w-full lg:w-1/2 overflow-hidden mb-5 cursor-pointer h-full"
   >
     <!-- <div class="shadow-lg w-full"> -->
     <img
