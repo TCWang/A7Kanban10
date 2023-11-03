@@ -1,6 +1,6 @@
 <template>
   <div v-if="shop">
-    <h1>餐廳介紹</h1>
+    <h1>店家介紹</h1>
     <ShopDetail :shop="shop" />
     <!-- <RestaurantDetailAttributes :features="restaurant.features" />
     <RestaurantDetailDescription :description="restaurant.description" />
