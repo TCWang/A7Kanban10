@@ -1,4 +1,10 @@
-const e=[{name:"夯吉團購",id:"G12",build:"2023/10/02",member:"70 ",address:"長慶三街77號",hours:"週一～五: 12:00 - 20:00 週六日公休",figure:"BUY-G12.png",web:"https://linktr.ee/poseidon.95525",facebook:"https://m.facebook.com/groups/555375356714468/?ref=share&mibextid=S66gvF",line:"https://linktr.ee/poseidon.95525",goods:"生活用品, 零食, 新鮮蔬果, 冷凍食品, 國內外名店商品",order:`團購各式商品(要加入群組才能+1唷)\r
+const e=[{name:"鮮食拼團-林口a7店",id:"G14",build:"2023/11/3",address:"桃園市龜山區文青路361號",hours:"11:00 - 20:00 週六日公休",figure:"BUY-G14.png",facebook:"https://reurl.cc/dmpjo8",line:"https://line.me/R/ti/p/@971fotqo?from=page&accountId=971fotqo",goods:"美妝保養, 生活雜貨, 好吃食集, 各國代購, 批發團購",order:`<ul>\r
+<li>Facebook搜尋🔍: 「鮮食拼團-林口a7店」</li>\r
+<li>取貨地址：桃園市龜山區文青路361號</li>\r
+<li>營業時間：周一至周五（11:00~20:00）</li>\r
+<li>店休時間：週六日& 國定假日公休</li>\r
+<li>本社團商品都是預購約3-15天，難免會遇到廠商斷貨的情況，再請大家耐心等待。貨到的時候會整理好通知大家取貨。</li>\r
+</ul>`,payment:"店面取貨付款",google:"https://www.google.com/maps/place/No.+361,+Wenqing+Rd,+Guishan+District,+Taoyuan+City,+333/@25.0395205,121.3893913,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a77171cbf585:0xf45b856ecb63a27e!8m2!3d25.0395157!4d121.3919716!16s%2Fg%2F11h56ccnvn?authuser=0&entry=ttu"},{name:"夯吉團購",id:"G12",build:"2023/10/02",member:"70 ",address:"長慶三街77號",hours:"週一～五: 12:00 - 20:00 週六日公休",figure:"BUY-G12.png",web:"https://linktr.ee/poseidon.95525",facebook:"https://m.facebook.com/groups/555375356714468/?ref=share&mibextid=S66gvF",line:"https://linktr.ee/poseidon.95525",goods:"生活用品, 零食, 新鮮蔬果, 冷凍食品, 國內外名店商品",order:`團購各式商品(要加入群組才能+1唷)\r
 記得加闆闆私line方便拉您入群唷（點選下列網址加入）\r
 https://linktr.ee/poseidon.95525 <br>\r
 取貨地址：桃園市龜山區長慶三街77號<br>\r
