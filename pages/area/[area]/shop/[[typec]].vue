@@ -44,27 +44,28 @@ import shops from "@/data/shops.json";
 // };
 
 const shopsOrganized = {
-  filtered: [...shops].filter((shop) => {
-    if (
-      route.params.area === "0.A7重劃區" &&
-      (route.params.typec === "所有" || route.params.typec === "")
-    ) {
-      return true;
-    } else {
-      if (route.params.area === "0.A7重劃區") {
-        return shop.type === route.params.typec;
+  filtered: [...shops]
+    .filter((shop) => {
+      if (
+        route.params.area === "0.A7重劃區" &&
+        (route.params.typec === "所有" || route.params.typec === "")
+      ) {
+        return true;
       } else {
-        if (route.params.typec === "所有" || route.params.typec === "") {
-          return shop.category === route.params.area;
+        if (route.params.area === "0.A7重劃區") {
+          return shop.type === route.params.typec;
         } else {
-          return (
-            shop.category === route.params.area &&
-            shop.type === route.params.typec
-          );
+          if (route.params.typec === "所有" || route.params.typec === "") {
+            return shop.category === route.params.area;
+          } else {
+            return (
+              shop.category === route.params.area &&
+              shop.type === route.params.typec
+            );
+          }
         }
       }
-    }
-  }),
-  // .sort((a, b) => a.address.localeCompare(b.address)),
+    })
+    .sort((a, b) => a.address.localeCompare(b.address)),
 };
 </script>
