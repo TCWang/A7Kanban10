@@ -2,7 +2,15 @@
   <div class="mt-2 flex flex-col">
     <NuxtErrorBoundary>
       <!-- SHOP SIDE BAR -->
-      <ShopSideBar />
+      <div class="flex flex-row">
+        <ShopSideBar />
+
+        <NuxtImg
+          src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-03-yellowpage.png"
+          alt=""
+          class="w-[150px] md:w-[200px] h-[150px] md:h-[200px] rounded-xl"
+        />
+      </div>
 
       <!-- Nuxt Page  -->
       <NuxtPage />
