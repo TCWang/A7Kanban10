@@ -3517,6 +3517,22 @@
             "google": "https://www.google.com/maps/place/%E5%AE%9C%E6%BB%B7%E8%82%89/@25.0691103,121.3649161,17.39z/data=!4m6!3m5!1s0x3442a778bab1df8b:0x7099134d48d3e1a0!8m2!3d25.0693458!4d121.3663153!16s%2Fg%2F11kq5v1b2p?entry=ttu"
         },
         {
+            "name": "瑪嘉烈自助餐廳",
+            "id": "A9-088",
+            "type": "吃到飽",
+            "address": "新北市林口區八德路369號",
+            "telphone": "02-2609-5500",
+            "figure": "RES-A9-088.jpeg",
+            "figureLogo": "RES-A9-088L.jpeg",
+            "web": "https://www.opentable.com.tw/restaurant/profile/209033?ref=18649",
+            "suggestion": "https://tenjo.tw/wyndhamlinkou/",
+            "category": "A9",
+            "category2": "1.婚宴會館/吃到飽",
+            "category3": "吃到飽",
+            "score": "3.9",
+            "google": "https://www.google.com/maps/place/%E7%91%AA%E5%98%89%E7%83%88%E8%87%AA%E5%8A%A9%E9%A4%90%E5%BB%B3/@25.0656002,121.359863,20.24z/data=!4m6!3m5!1s0x3442a7dac45f880b:0x9101fcc4e38696e2!8m2!3d25.0655781!4d121.3600669!16s%2Fg%2F11sryh0d9b?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "饗饗 新莊店",
             "id": "NT-001",
             "type": "吃到飽",
