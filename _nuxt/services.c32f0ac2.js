@@ -34,4 +34,28 @@ const e=[{name:"竹風到府修理紗門窗網",id:"L001",type:"住",telphone:"0
 <li>專業教育訓練</li>\r
 <li>專業檢測儀器</li>\r
 <li>建立信心口碑</li>\r
-</ul>`,google:"https://www.google.com/maps/place/%E5%A4%A9%E9%89%85%E5%B7%A5%E7%A8%8B%E6%AA%A2%E9%A9%97%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%7C%E6%96%B0%E6%88%90%E5%B1%8B%E9%A9%97%E5%B1%8B%7C%E5%B0%88%E6%A5%AD%E9%A9%97%E5%B1%8B%7C%E6%96%B0%E5%8C%97%7C%E6%A1%83%E5%9C%92%7C%E6%9E%97%E5%8F%A3%7C%E9%BE%9C%E5%B1%B1/@25.0457983,121.3927412,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a797a645c347:0x76bbafd8092e45dd!8m2!3d25.0457983!4d121.3927412!16s%2Fg%2F11scs6q5mz?entry=ttu"}];export{e as s};
+</ul>`,google:"https://www.google.com/maps/place/%E5%A4%A9%E9%89%85%E5%B7%A5%E7%A8%8B%E6%AA%A2%E9%A9%97%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%7C%E6%96%B0%E6%88%90%E5%B1%8B%E9%A9%97%E5%B1%8B%7C%E5%B0%88%E6%A5%AD%E9%A9%97%E5%B1%8B%7C%E6%96%B0%E5%8C%97%7C%E6%A1%83%E5%9C%92%7C%E6%9E%97%E5%8F%A3%7C%E9%BE%9C%E5%B1%B1/@25.0457983,121.3927412,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a797a645c347:0x76bbafd8092e45dd!8m2!3d25.0457983!4d121.3927412!16s%2Fg%2F11scs6q5mz?entry=ttu"},{name:"林口裝修通室裝有限公司",id:"L007",type:"住",address:"新北市林口區文化二路二段364號4樓5",telphone:"0979-706-225",hours:"09:00 - 17:30",figure:"LOC-007-01.jpeg",figureLogo:"LOC-007-02.png",line:"kkk989588",description:`<p>\r
+即日起新屋裝修舊屋翻修大林口台地鄉親免費現場估價 <br>\r
+新屋裝修，舊屋翻修，拆除，泥作，油漆，木工，鋼鋁門窗，石塑木地板, 店面夾層灌漿施工 <br>\r
+本公司經理國家特考及格室內裝修乙級技術士, 室內裝修工程管理證照 <br>\r
+（地壁磚維修）【10片以下可優先處理修補】超過10片電話聯繫洽談 <br>\r
+客人們是否家中地壁磁磚鼓起破裂，提醒如有鼓起趕緊通知我來幫你切割洩壓, 原磁磚只要沒破，還可以鼓起取出貼回, 千萬不要踩踏磁磚，以免破裂割傷腳, 日後找不到同色磁磚修補 <br>\r
+本公司專業修繕, 施工分項請款，非詐騙蟑螂, 請放心交給我們團隊施工 <br>\r
+本公司林口在地專業室內裝修證照施工，本公司估價見面遞真實名片，我方一律配帶口罩 <br>\r
+專業地壁磁磚修繕（地震鼓起，地震破裂）完修\r
+</p>`},{name:"荷蘭poll-tex普特絲防霾紗窗",id:"L008",type:"住",address:"桃園市龜山區樂善二路826號",telphone:"03-328-0198",hours:"09:00 - 18:00",figure:"LOC-008-01.png",figureLogo:"LOC-008-02.png",web:"https://hocom.tw/h/index?key=isaki",line:"@PT999",description:`<p>\r
+臉書粉絲團按讚+打卡+分享（需請門市人員確認✅）🉑️即可獲得✨全聯禮券$200✨（一組客人為一個單位哦）\r
+</p>`,google:"https://www.google.com/maps/place/%E8%8D%B7%E8%98%AD%E5%8E%9F%E8%A3%9DPoll-tex%C2%AE%E6%99%AE%E7%89%B9%E7%B5%B2%E9%98%B2%E9%9C%BE%E7%B4%97%E7%AA%97%E9%96%80%E5%B8%82%7C%E6%96%B0%E5%8C%97%E5%B8%82%E6%9E%97%E5%8F%A3%7C%E6%A1%83%E5%9C%92%E9%BE%9C%E5%B1%B1/@25.0458444,121.390103,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7328c10cc91:0x6c13891b4ff82582!8m2!3d25.0458396!4d121.3926779!16s%2Fg%2F11ty8fnp0z?authuser=0&entry=ttu"},{name:"鴻銘石材",id:"L009",type:"住",address:"桃園市中壢區義民路一段98號",telphone:"03-222-7836",hours:"10:00 - 18:00 例假休息",figure:"LOC-009-01.jpeg",figureLogo:"LOC-009-02.png",web:"http://www.hongmingstone.com.tw/",facebook:"https://www.facebook.com/hongming0123",line:"gg1739",email:"stonehongming@gmail.com",description:`<p>\r
+檯面舊換新活動開跑🎉 <br>\r
+對象：新成屋/老廚具換新用戶 <br>\r
+指定專案 240CM檯面組，搭配60CM水槽、兩用式龍頭<br>\r
+❤️❤️❤️人造石免費升級石英石❤️❤️❤️ <br>\r
+北中南都有服務，24小時皆可配合現場丈量 <br>\r
+到府挑色，多款水龍頭、水槽可供挑選選擇<br>\r
+\r
+</p>\r
+<p>\r
+選擇石英石的優缺點分析 優點太多，缺點太少……。<br>\r
+高硬度耐磨不易吃色與好維護 , 能夠自行使用菜瓜布刷檯面清潔。<br>\r
+你沒有多餘的時間出遊旅行的原因, 當別人拿菜瓜布時，你還在拿抹布<br>\r
+</p>`}];export{e as s};
