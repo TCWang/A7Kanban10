@@ -17,6 +17,11 @@
           </p>
           <p class="">電話: {{ restaurant.telphone }}</p>
           <p class="">營業時間: {{ restaurant.hours }}</p>
+
+          <div
+            v-if="restaurant.description"
+            v-html="restaurant.description"
+          ></div>
         </div>
 
         <p class="flex flex-row space-x-4">
