@@ -155,7 +155,7 @@
             "google": "https://www.google.com.tw/maps/place/%E8%8A%AC%E4%BA%AB%E7%BE%8E%E5%91%B3%E9%A4%90%E9%A4%A8/@25.0549023,121.3828739,19.39z/data=!4m5!3m4!1s0x3442a7cc60d0cfad:0x202cbfa70e7acb3d!8m2!3d25.0547435!4d121.382928?hl=zh-TW&authuser=0"
         },
         {
-            "name": "邦煮-手工便當",
+            "name": "邦煮手工便當",
             "id": "A7-013",
             "type": "中式料理",
             "address": "桃園市龜山區長慶三街22號1樓",
@@ -257,7 +257,7 @@
             "google": "https://www.google.com.tw/maps/place/%E5%A4%A7%E5%A1%8A%E7%89%9B%E6%8E%92/@25.0567614,121.3813803,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a7a6f106274d:0x8f35922046726be2!8m2!3d25.0567614!4d121.3833597?hl=zh-TW&authuser=0"
         },
         {
-            "name": "翔串燒-炭烤",
+            "name": "翔串燒 炭烤",
             "id": "A7-019",
             "type": "行動餐車",
             "address": "桃園市龜山區樂學路與樂學三路交口",
@@ -272,7 +272,7 @@
             "google": "https://www.google.com.tw/search?authuser=0&bih=682&biw=1232&hl=zh-TW&tbs=lf:1,lf_ui:9&tbm=lcl&sxsrf=ALiCzsarNuExKsOYreBT1pjqAb97vbr2Vg:1668671155055&q=%E9%BE%9C%E5%B1%B1A7+%E7%87%92%E7%83%A4%E9%A4%90%E8%BB%8A&rflfq=1&num=10&rldimm=4588144719568069165&ved=2ahUKEwi5isa73LT7AhWInFYBHWjjDZEQu9QIegQIDBAJ#rlfi=hd:;si:4588144719568069165;mv:[[25.070317619266984,121.39508188610263],[25.029339446027187,121.32538736705966]]"
         },
         {
-            "name": "After5_步驟六龜山店",
+            "name": "After5 步驟六龜山店",
             "id": "A7-020",
             "type": "咖啡館",
             "address": "桃園市龜山區文達路322號",
@@ -697,7 +697,7 @@
             "google": "https://www.google.com.tw/maps/place/%E5%A2%A8%E7%88%BE%E6%BC%A2%E5%A0%A1A7%E6%96%87%E9%9D%92%E5%BA%97/@25.0397336,121.3881727,18z/data=!3m1!4b1!4m5!3m4!1s0x3442a7f26e2b9741:0x4880b3d6b8353d46!8m2!3d25.0397336!4d121.3892697?hl=zh-TW&authuser=0"
         },
         {
-            "name": "W。D我的早餐",
+            "name": "WD我的早餐",
             "id": "A7-050",
             "type": "早午餐",
             "address": "桃園市龜山區文青路246號1樓",
@@ -1709,7 +1709,7 @@
             "google": "https://www.google.com.tw/maps/place/%E7%B6%A0%E7%B6%A0%E7%99%BC%E8%8A%BDluluheya/@25.0585833,121.3662389,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a774c93b16fd:0x59bc05d402bed0b3!8m2!3d25.0585833!4d121.3684276?hl=zh-TW&authuser=0"
         },
         {
-            "name": "墨竹亭｜燃麵本家",
+            "name": "墨竹亭燃麵本家",
             "id": "A8-040",
             "type": "麵食餐館",
             "address": "桃園市龜山區文昌一街47巷31號",
@@ -2006,7 +2006,7 @@
             "score": "4.8"
         },
         {
-            "name": "鏊屋-串燒壽司酒場",
+            "name": "鏊屋串燒壽司酒場",
             "id": "A8-058",
             "type": "居酒屋",
             "address": "桃園市龜山區復興一路212巷13號",
@@ -2042,7 +2042,7 @@
             "google": "https://www.google.com.tw/maps/place/%E6%B8%AF%E9%BE%98%E6%B8%AF%E5%BC%8F%E9%A3%B2%E8%8C%B6%E6%AD%90%E5%BC%8F%E8%87%AA%E5%8A%A9%E7%99%BE%E5%8C%AF%EF%BC%88%E9%95%B7%E5%BA%9A%E5%BA%97%EF%BC%89/@25.0581709,121.359509,21z/data=!4m5!3m4!1s0x3442a732c7d52953:0x707993e61c9b862e!8m2!3d25.0564527!4d121.3650928?hl=zh-TW&authuser=0"
         },
         {
-            "name": "錢都日式涮涮鍋-林口長庚直營店",
+            "name": "錢都日式涮涮鍋林口長庚直營店",
             "id": "A8-060",
             "type": "火鍋燒烤",
             "address": "桃園市龜山區文化二路13-1號",
@@ -2087,7 +2087,7 @@
             "google": "https://www.google.com/maps/place/%E5%A4%A7%E5%9F%94%E9%90%B5%E6%9D%BF%E7%87%92+%E6%9E%97%E5%8F%A3%E5%BA%97/@25.0580209,121.3615447,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a78fc5146187:0xf1963846e2e35431!8m2!3d25.058021!4d121.3664103!16s%2Fg%2F11l1hz59w_?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "芳珍蔬食-龜山長庚店",
+            "name": "芳珍蔬食 龜山長庚店",
             "id": "A8-063",
             "type": "中式料理",
             "address": "桃園市龜山區文化二路34巷22號",
@@ -2103,7 +2103,7 @@
             "google": "https://www.google.com/maps/place/%E8%8A%B3%E7%8F%8D%E8%94%AC%E9%A3%9F-%E9%BE%9C%E5%B1%B1%E9%95%B7%E5%BA%9A%E5%BA%97/@25.0583405,121.3647725,15z/data=!4m6!3m5!1s0x3442a795977959cd:0xc215fc0b3335dc88!8m2!3d25.0583405!4d121.3647725!16s%2Fg%2F11vf31ctly?entry=ttu"
         },
         {
-            "name": "玉津咖啡-林口文化店",
+            "name": "玉津咖啡林口文化店",
             "id": "A8-064",
             "type": "咖啡館",
             "address": "桃園市龜山區文化二路28號之1",
@@ -2144,6 +2144,22 @@
             "category": "A8",
             "score": "4.2",
             "google": "https://www.google.com/maps/place/%E5%85%88%E5%96%9D%E9%81%93+%E6%9E%97%E5%8F%A3%E9%95%B7%E5%BA%9A%E5%BA%97/@25.0602711,121.3646358,15z/data=!4m6!3m5!1s0x3442a70c7ceff7c7:0xfd9f1a7a4bf0c170!8m2!3d25.0602711!4d121.3646358!16s%2Fg%2F11kjnxtpm3?hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "森料理長庚店",
+            "id": "A8-067",
+            "type": "日本料理",
+            "address": "桃園市龜山區復興街7號",
+            "telphone": "0935-818-787",
+            "hours": "11:30 - 14:00, 17:00 - 21:00",
+            "figure": "RES-A8-067.jpeg",
+            "figureLogo": "RES-A8-067L.jpeg",
+            "web": "https://senfood.com.tw/",
+            "menu": "https://senfood.com.tw/?page_id=17",
+            "category": "A8",
+            "score": "5.0",
+            "description": "<p>即日起至 2023/11/30 消費享8折優惠</p>",
+            "google": "https://www.google.com/maps/place/%E6%A3%AE%E6%96%99%E7%90%86-%E9%95%B7%E5%BA%9A%E5%BA%97/@25.062657,121.3668862,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a76ac5fdb1d3:0x92a95e0c9666e0c8!8m2!3d25.062657!4d121.3668862!16s%2Fg%2F11vbzrvjkh?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
             "name": "海世界複合式碳烤店",
@@ -2276,7 +2292,7 @@
             "google": "https://www.google.com.tw/maps/place/China+Spice+%E8%81%9A%E5%91%B3%E8%BB%92%E4%B8%AD%E9%A4%90%E5%BB%B3/@25.0663193,121.3585877,17z/data=!3m2!4b1!5s0x3442a72e627cf1d5:0x875fe32d67ee0c11!4m5!3m4!1s0x3442a7dcbbdafd15:0x6971e4e55cceee5d!8m2!3d25.0663193!4d121.3607764?hl=zh-TW&authuser=0"
         },
         {
-            "name": "欣葉小聚-三井店",
+            "name": "欣葉小聚 三井店",
             "id": "A9-008",
             "type": "中式料理",
             "address": "新北市林口區文化三路一段356號2樓",
@@ -2295,7 +2311,7 @@
             "google": "https://www.google.com.tw/maps/place/Shin+Yeh+Bistro+Linkou+Restaurant/@25.0707347,121.3617667,17z/data=!3m2!4b1!5s0x3442a7287c411bdb:0x695712dbb6e4e3ca!4m5!3m4!1s0x3442a72858e072d7:0x45fa65aec3361718!8m2!3d25.0707347!4d121.3639607?hl=zh-TW&authuser=0"
         },
         {
-            "name": "點水樓-三井店",
+            "name": "點水樓三井店",
             "id": "A9-009",
             "type": "中式料理",
             "address": "新北市林口區文化三路一段356號2樓",
@@ -2351,7 +2367,7 @@
             "google": "https://www.google.com.tw/maps/place/AMBER+HILL+%E6%95%99%E7%88%B6%E7%89%9B%E6%8E%92%E9%A4%90%E9%A3%B2/@25.0736654,121.3605684,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a702a2b31073:0x1fc87972aca7fee3!8m2!3d25.0736654!4d121.3627624?hl=zh-TW&authuser=0"
         },
         {
-            "name": "GBA 吉比鮮釀餐廳",
+            "name": "GBA吉比鮮釀餐廳",
             "id": "A9-013",
             "type": "西式餐廳",
             "address": "新北市林口區文化三路一段356號",
@@ -2411,7 +2427,7 @@
             "google": "https://www.google.com.tw/maps/place/S%C3%B6t+cafe+Bistronomy+%E6%B5%AE%E5%B3%B6%E5%B1%95%E6%82%85%E5%BA%97/@25.0903959,121.3788836,17z/data=!4m9!1m2!2m1!1z5paw5YyX5biC5bGV5oKF5rWu5bO25ZKW5ZWh6aSo!3m5!1s0x3442a6eb3619c47b:0x47e7cbddc475b699!8m2!3d25.0905085!4d121.3811853!15sCh7mlrDljJfluILlsZXmgoXmta7ls7blkpbllaHppKhaJiIk5pawIOWMl-W4giDlsZUg5oKFIOa1ruWztiDlkpbllaEg6aSokgEKcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNMGIyUXRSRFJCUlJBQg?hl=zh-TW&authuser=0"
         },
         {
-            "name": "瓦城泰國料理-三井店",
+            "name": "瓦城泰國料理 三井店",
             "id": "A9-016",
             "type": "泰國料理",
             "address": "新北市林口區文化三路一段356號2樓",
@@ -2487,7 +2503,7 @@
             "google": "https://www.google.ca/maps/place/QUARTER+MILE%E5%B1%85%E9%85%92%E5%B1%8B/@25.075511,112.4144438,5z/data=!3m1!5s0x3442a6e72e148a3b:0xa9d8962395a2c4e3!4m9!1m2!2m1!1z5Zub5YiG5LmL5LiA5bGF6YWS5bGL!3m5!1s0x3442a70757639ff9:0x9a8dce663e08c85b!8m2!3d25.075511!4d121.3792876!15sChXlm5vliIbkuYvkuIDlsYXphZLlsYtaGyIZ5ZubIOWIhiDkuYsg5LiAIOWxhemFkuWxi5IBG2phcGFuZXNlX2l6YWtheWFfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOcGVrMXBaMlZSRUFF?hl=zh-TW&authuser=0"
         },
         {
-            "name": "Mes Amis 歐式餐酒館",
+            "name": "MesAmis 歐式餐酒館",
             "id": "A9-021",
             "type": "居酒屋",
             "address": "新北市林口區仁愛路二段490-2號",
@@ -2713,7 +2729,7 @@
             "google": "https://www.google.com.tw/maps/place/%E9%B9%BF%E9%87%8E%E6%A1%82%E8%8A%B1%E9%9B%9E/@25.0803666,121.3806885,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a6eedd229645:0x6a14ebf2712a2926!8m2!3d25.0803666!4d121.3828825?hl=zh-TW&authuser=0"
         },
         {
-            "name": "想林口 - 空中花園",
+            "name": "想林口 空中花園",
             "id": "A9-035",
             "type": "中式料理",
             "address": "新北市林口區文化一路一段250號",
@@ -2753,7 +2769,7 @@
             "google": "https://www.google.com.tw/maps/place/%E6%B3%B0%E8%9D%A6PA%E6%BB%91%E6%B0%B4%E9%81%93%E6%B3%B0%E5%9C%8B%E8%9D%A6%E5%90%83%E5%88%B0%E9%A3%BD/@25.0687907,121.3570851,17z/data=!4m14!1m8!3m7!1s0x3442a77680e3dae1:0x9aa5c642e59347c4!2z5rOw6J2mUEHmu5HmsLTpgZPms7DlnIvonablkIPliLDpo70!8m2!3d25.0687907!4d121.3592738!14m1!1BCgIYIQ!3m4!1s0x3442a77680e3dae1:0x9aa5c642e59347c4!8m2!3d25.0687907!4d121.3592738?hl=zh-TW&authuser=0"
         },
         {
-            "name": "東京純豆腐-昕境廣場",
+            "name": "東京純豆腐 昕境廣場",
             "id": "A9-038",
             "type": "火鍋燒烤",
             "address": "新北市林口區文化三路一段402巷2號3樓",
@@ -2772,7 +2788,7 @@
             "google": "https://www.google.ca/maps/place/%E6%9D%B1%E4%BA%AC%E7%B4%94%E8%B1%86%E8%85%90Tokyo+Sundubu+%E6%96%B0%E5%8C%97%E6%9E%97%E5%8F%A3%E6%98%95%E5%A2%83%E5%BA%97/@25.0747927,121.3650847,18.4z/data=!3m1!5s0x3442a6d8f30e1025:0x108e984c25d96f92!4m5!3m4!1s0x3442a7f632a50607:0x7afc3d547649eba0!8m2!3d25.073748!4d121.368837?hl=zh-TW&authuser=0"
         },
         {
-            "name": "鶴橋風月-三井店",
+            "name": "鶴橋風月 三井店",
             "id": "A9-039",
             "type": "日本料理",
             "address": "新北市林口區文化三路一段356號1F",
@@ -2790,7 +2806,7 @@
             "google": "https://www.google.com.tw/maps/place/%E9%B6%B4%E6%A9%8B%E9%A2%A8%E6%9C%88+(%E4%B8%89%E4%BA%95outlet)/@25.0702994,121.363857,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a7285be2ffa1:0x91660a08be7c26f7!8m2!3d25.0702994!4d121.366051?hl=zh-TW&authuser=0"
         },
         {
-            "name": "牛 かつもと村-三井店",
+            "name": "牛 かつもと村 三井店",
             "id": "A9-040",
             "type": "日本料理",
             "address": "新北市林口區文化三路一段356號",
@@ -2865,7 +2881,7 @@
             "google": "https://www.google.com.tw/maps/place/%E8%82%89%E5%A4%9A%E5%A4%9A%E7%81%AB%E9%8D%8B-%E6%9E%97%E5%8F%A3%E6%98%95%E5%A2%83%E5%BA%97/@25.0738048,121.366815,17z/data=!3m2!4b1!5s0x3442a6d8f30e1025:0x108e984c25d96f92!4m5!3m4!1s0x3442a7bef14b6d71:0x1116293bed462b25!8m2!3d25.0738!4d121.3690037?hl=zh-TW&authuser=0"
         },
         {
-            "name": "狂一鍋－林口昕境店",
+            "name": "狂一鍋 林口昕境店",
             "id": "A9-044",
             "type": "火鍋燒烤",
             "address": "新北市林口區文化三路一段402巷2號3樓",
@@ -3021,7 +3037,7 @@
             "google": "https://www.google.com.tw/maps/place/%E5%BF%83%E6%B3%B0Pro/@25.0736646,121.3667104,17z/data=!3m2!4b1!5s0x3442a6d8f30e1025:0xd119f394fc7738fa!4m5!3m4!1s0x3442a76899655c7b:0x6cd6b3d80db855d8!8m2!3d25.0736598!4d121.3689044?hl=zh-TW&authuser=0"
         },
         {
-            "name": "美麗蔬．蔬食料理Meili Green",
+            "name": "美麗蔬蔬食料理Meili Green",
             "id": "A9-054",
             "type": "中式料理",
             "address": "新北市林口區文化三路一段484號(近三井Outlet、國賓影城)",
@@ -3060,7 +3076,7 @@
             "google": "https://www.google.com.tw/maps/place/%E8%8C%97%E9%A6%99%E5%9C%92%E5%86%B0%E5%AE%A4+-+%E6%9E%97%E5%8F%A3%E5%BA%97/@25.069162,121.3652549,18z/data=!4m16!1m9!3m8!1s0x3442a7288f016325:0xb94195da9cdaa916!2z6IyX6aaZ5ZyS5Yaw5a6kIC0g5p6X5Y-j5bqX!8m2!3d25.069162!4d121.3660814!14m1!1BCgIgAQ!16s%2Fg%2F11s6199_sn!3m5!1s0x3442a7288f016325:0xb94195da9cdaa916!8m2!3d25.069162!4d121.3660814!16s%2Fg%2F11s6199_sn?hl=zh-TW&authuser=0"
         },
         {
-            "name": "Japoli -三井店",
+            "name": "Japoli 三井店",
             "id": "A9-057",
             "type": "義式料理",
             "address": "新北市林口區文化三路一段356號戶外區2F",
@@ -3158,7 +3174,7 @@
             "google": "https://www.google.ca/maps/place/%E4%B8%80%E8%97%A4%E7%87%92%E8%82%89%E4%B8%BC%E9%A3%AF/@25.0827839,121.3691437,15.07z/data=!4m5!3m4!1s0x3442a793f7cffb7b:0xf4ecb7e0fc4dab0a!8m2!3d25.0827293!4d121.3708801?hl=zh-TW&authuser=0"
         },
         {
-            "name": "くら寿司-三井店",
+            "name": "くら寿司 三井店",
             "id": "A9-063",
             "type": "日本料理",
             "address": "新北市林口區文化三路一段356號B1",
@@ -3176,7 +3192,7 @@
             "google": "https://www.google.com.tw/maps/place/%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8+%E8%97%8F%E5%A3%BD%E5%8F%B8+%E6%9E%97%E5%8F%A3%E4%B8%89%E4%BA%95OUTLET%E5%BA%97/@25.0707347,121.3617667,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a72858e072d7:0xae3f42c1fc7f16ab!8m2!3d25.0707347!4d121.3639607?hl=zh-TW&authuser=0"
         },
         {
-            "name": "屯京拉麵-三井店",
+            "name": "屯京拉麵 三井店",
             "id": "A9-064",
             "type": "麵食餐館",
             "address": "新北市林口區文化三路一段356號2F",
@@ -3194,7 +3210,7 @@
             "google": "https://www.google.com.tw/maps/place/%E5%B1%AF%E4%BA%AC%E6%8B%89%E9%BA%B5+(%E4%B8%89%E4%BA%95outlet)/@25.0704066,121.3641289,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a72861c4cb45:0xde4973c36148029f!8m2!3d25.0704066!4d121.3663229?hl=zh-TW&authuser=0"
         },
         {
-            "name": "金子半之助-三井店",
+            "name": "金子半之助三井店",
             "id": "A9-065",
             "type": "麵食餐館",
             "address": "新北市林口區文化三路一段356號2F",
@@ -3252,7 +3268,7 @@
             "google": "https://www.google.com.tw/maps/place/%E9%82%A3%E9%96%93%E8%B3%A3%E5%86%B0%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97+Blue+Lamp+Cafe/@25.0777589,121.3895923,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a6f0814428fb:0x3fda622b88f50443!8m2!3d25.0777544!4d121.3917815?hl=zh-TW&authuser=0"
         },
         {
-            "name": "法國的秘密甜點-三井店",
+            "name": "法國的秘密甜點 三井店",
             "id": "A9-068",
             "type": "點心冰品",
             "address": "新北市林口區文化三路一段356號B1",
@@ -3271,7 +3287,7 @@
             "google": "https://www.google.com.tw/maps/place/%E6%B3%95%E5%9C%8B%E7%9A%84%E7%A7%98%E5%AF%86%E7%94%9C%E9%BB%9E+%E6%9E%97%E5%8F%A3%E5%BA%97/@25.0708436,121.3637902,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a7285ada4877:0x973a03c1bc55040e!8m2!3d25.0708436!4d121.3659842?hl=zh-TW&authuser=0"
         },
         {
-            "name": "PAUL 保羅麵包法式烘焙Café-三井店",
+            "name": "PAUL 保羅麵包法式烘焙Café 三井店",
             "id": "A9-069",
             "type": "點心冰品",
             "address": "新北市林口區文化三路一段356號2F",
@@ -3329,7 +3345,7 @@
             "google": "https://www.google.com.tw/maps/place/%E5%91%B7%E5%86%B0%E9%A3%9F%E5%A0%82/@25.0777888,121.3857072,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a6fa9daa24f5:0x46c8758d195db34c!8m2!3d25.0778197!4d121.3879008?hl=zh-TW&authuser=0"
         },
         {
-            "name": "J.S. Foodies Tokyo-三井店",
+            "name": "J.S. Foodies Tokyo 三井店",
             "id": "A9-072",
             "type": "日本料理",
             "address": "新北市林口區文化三路一段356號2F",
@@ -3457,7 +3473,7 @@
             "google": "https://www.google.com.tw/maps/place/%E5%A5%89%E4%B8%8A%E7%89%9B%E9%AA%A8%E9%BA%B5+Serve+Beef+Noodle/@25.0729325,121.3654538,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a796e549faf1:0x31597f0d95635800!8m2!3d25.0729325!4d121.3676425?hl=zh-TW&authuser=0"
         },
         {
-            "name": "Kua `Aina 夏威夷漢堡-三井店",
+            "name": "Kua `Aina 夏威夷漢堡 三井店",
             "id": "A9-079",
             "type": "麵食餐館",
             "address": "新北市林口區文化三路一段356號2F",
@@ -3517,7 +3533,7 @@
             "google": "https://www.google.com.tw/maps/place/%E8%92%B8%E5%AE%B4%E5%B0%8F%E7%B1%A0%E5%8C%85/@25.0788979,121.3886188,17z/data=!4m5!3m4!1s0x3442a6f092dc4441:0x5a000026fde9957d!8m2!3d25.0789136!4d121.3908103?hl=zh-TW&authuser=0"
         },
         {
-            "name": "怪物部落 / 漢堡",
+            "name": "怪物部落  漢堡",
             "id": "A9-083",
             "type": "麵食餐館",
             "address": "新北市林口區忠孝一路78巷3號",
@@ -3882,7 +3898,7 @@
             "google": "https://www.google.com.tw/maps/place/%E8%B6%85%E5%A4%AF%E3%81%AE%E7%87%92%E8%82%89+%E8%97%9D%E6%96%87%E5%BA%97+%E9%A0%82%E7%B4%9A%E5%92%8C%E7%89%9B%E7%87%92%E8%82%89%E5%90%83%E5%88%B0%E9%A3%BD/@25.0124458,121.2988717,17z/data=!3m2!4b1!5s0x34681fae3f6d6913:0xcfcf55d0e1ac36f5!4m5!3m4!1s0x34681f5ce230f04b:0x9da04ae4af1ce35e!8m2!3d25.0124458!4d121.3010604?hl=zh-TW&authuser=0"
         },
         {
-            "name": "和逸飯店 桃園館 逸．市集",
+            "name": "和逸飯店 桃園館 逸 市集",
             "id": "TY-010",
             "type": "吃到飽",
             "address": "桃園市中壢區春德路101號2樓",
@@ -3893,6 +3909,7 @@
             "facebook": "https://hotelcozzi.com/%E6%A1%83%E5%9C%92%E9%A4%A8/%E9%A4%90%E9%A3%B2%E7%BE%8E%E9%A5%8C/%E9%80%B8%EF%BC%8E%E5%B8%82%E9%9B%86/",
             "menu": "https://inline.app/booking/-M9Ger42XZjrvY7cvICy:inline-live-1",
             "suggestion": "https://phillis0913.pixnet.net/blog/post/25310843-%E3%80%90%E6%A1%83%E5%9C%92%E5%90%83%E5%88%B0%E9%A3%BD%E6%8E%A8%E8%96%A6%E3%80%91-%E9%80%B8%C2%B7%E5%B8%82%E9%9B%86-cozzi-market%EF%BD%9C%E5%92%8C",
+            "category": "桃園",
             "category2": "1.婚宴會館/吃到飽",
             "category3": "吃到飽",
             "score": "4.3",
