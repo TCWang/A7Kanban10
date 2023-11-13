@@ -15,7 +15,7 @@
             "google": "https://www.google.com/maps/place/%E5%85%A8%E8%81%AF%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83+%E9%BE%9C%E5%B1%B1%E9%95%B7%E6%85%B6%E5%BA%97/@25.0557924,121.3844138,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7912523719b:0x321eb8f5cbeddb67!8m2!3d25.0557924!4d121.3844138!16s%2Fg%2F11ny1j63lk?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "7-ELEVEn 長慶門市",
+            "name": "7ELEVEn 長慶門市",
             "id": "S1-002",
             "type": "食",
             "address": "桃園市龜山區長慶三街68號82號1樓78",
@@ -46,7 +46,7 @@
             "google": "https://www.google.com/maps/place/%E6%9C%89%E5%BD%A2%E6%9C%89%E8%89%B2%E7%95%AB%E5%AE%A4%E5%AE%89%E8%A6%AA%E7%9F%AD%E6%9C%9F%E8%A3%9C%E7%BF%92%E7%8F%AD/@25.0552731,121.3840384,20.99z/data=!4m6!3m5!1s0x3442a706c47b7177:0xea31c57ace0da945!8m2!3d25.0554379!4d121.3843823!16s%2Fg%2F11srqjtpd3?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "哈迪 Hardy-運動工作室一店",
+            "name": "哈迪 Hardy運動工作室一店",
             "id": "S1-004",
             "type": "樂",
             "address": "桃園市龜山區長慶三街46號",
@@ -91,7 +91,7 @@
             "google": "https://www.google.com/maps/place/%E6%98%9F%E5%85%89%E5%81%A5%E8%BA%ABStarlight+Fitness/@25.0541148,121.3827259,20.59z/data=!4m14!1m7!3m6!1s0x3442a735c303d161:0x3ded57cee8e95b27!2z5oKg5o-a5YWr5bqm6Z-z5qiC5Lit5b-D5pyJ6ZmQ5YWs5Y-4!8m2!3d25.0551091!4d121.383723!16s%2Fg%2F11qrn7yb4r!3m5!1s0x3442a7b4735783a9:0xa3a717a2a708aa9a!8m2!3d25.053937!4d121.3828788!16s%2Fg%2F11kk9940ft?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "哈迪 Hardy-運動工作室二店",
+            "name": "哈迪 Hardy運動工作室二店",
             "id": "S1-007",
             "type": "樂",
             "address": "桃園市龜山區長慶二街11號1樓",
@@ -480,7 +480,7 @@
             "category": "1.樂善國小"
         },
         {
-            "name": "7-ELEVEN 富敦門市",
+            "name": "7ELEVEN 富敦門市",
             "id": "S1-036",
             "type": "食",
             "address": "桃園市龜山區樂學三路83號",
@@ -517,7 +517,7 @@
             "category": "1.樂善國小"
         },
         {
-            "name": "7-ELEVEn 恆耀門市",
+            "name": "7ELEVEn 恆耀門市",
             "id": "S2-001",
             "type": "食",
             "address": "桃園市龜山區樂學路111號 113號1樓",
@@ -753,7 +753,7 @@
             "google": "https://www.google.com/maps/place/%E9%91%B0%E4%BD%A0%E7%AE%A1%E7%A7%9F%E5%B1%8B/@25.0465122,121.3659708,15z/data=!3m1!4b1!4m6!3m5!1s0x3442a7c2e2282827:0x8f12b2dbea5b30b1!8m2!3d25.0465133!4d121.3844032!16s%2Fg%2F11rxzg6dls?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "居家萬歲系統傢俱/室內設計A7林口店",
+            "name": "居家萬歲系統傢俱 室內設計A7林口店",
             "id": "S3-013",
             "type": "住",
             "address": "桃園市龜山區樂善二路199號",
@@ -866,7 +866,7 @@
             "google": "https://www.google.com/maps/place/%E7%B5%B1%E8%93%8B%E9%9D%92%E8%94%AC%E6%9E%9C/@25.0461518,121.3856027,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7cf67969801:0x58d7cdadbcab6ff4!8m2!3d25.0461518!4d121.388183!16s%2Fg%2F11txpgmc7j?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "7-ELEVEn 樂學門市",
+            "name": "7ELEVEn 樂學門市",
             "id": "S4-003",
             "type": "食",
             "address": "桃園市龜山區樂善二路505號1樓",
@@ -913,7 +913,7 @@
             "google": "https://www.google.com/maps/place/%E5%A4%A9%E9%89%85%E5%B7%A5%E7%A8%8B%E6%AA%A2%E9%A9%97%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%7C%E6%96%B0%E6%88%90%E5%B1%8B%E9%A9%97%E5%B1%8B%7C%E5%B0%88%E6%A5%AD%E9%A9%97%E5%B1%8B%7C%E6%96%B0%E5%8C%97%7C%E6%A1%83%E5%9C%92%7C%E6%9E%97%E5%8F%A3%7C%E9%BE%9C%E5%B1%B1/@25.0457983,121.3901609,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a797a645c347:0x76bbafd8092e45dd!8m2!3d25.0457983!4d121.3927412!16s%2Fg%2F11scs6q5mz?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "荷蘭原裝Poll-tex®普特絲防霾紗窗門市",
+            "name": "荷蘭原裝Polltex普特絲防霾紗窗門市",
             "id": "S4-006",
             "type": "住",
             "address": "桃園市龜山區樂善二路826號",
@@ -969,7 +969,7 @@
             "google": "https://www.google.com/maps/place/%E4%BD%8F%E5%95%86%E4%B8%8D%E5%8B%95%E7%94%A2-A7%E6%96%87%E9%9D%92%E5%9C%8B%E5%B0%8F%E5%8A%A0%E7%9B%9F%E5%BA%97/@25.0462787,121.3867617,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7ef84e6240f:0xb2e95f2d703195a!8m2!3d25.0462788!4d121.3913698!16s%2Fg%2F11vf2y8y0l?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "7-ELEVEn 樂學門市",
+            "name": "7ELEVEn 樂學門市",
             "id": "S4-010",
             "type": "食",
             "address": "桃園市龜山區樂善二路505號1樓",
@@ -1085,7 +1085,7 @@
             "google": "https://www.google.com/maps/place/%E5%AE%8F%E9%96%94%E6%B7%A8%E6%B0%B4-BRITA-%E8%AB%BE%E5%BE%97%E6%B7%A8%E6%B0%B4-3M-%E6%84%9B%E6%83%A0%E6%B5%A6-%E8%B3%80%E7%9C%BE~%E6%A1%83%E5%9C%92%E6%96%B0%E5%8C%97%E6%B7%A8%E6%B0%B4%E5%99%A8%E6%8E%A8%E8%96%A6/@25.0403246,121.3874102,21z/data=!3m1!5s0x3442a771e339cc59:0xa2b9e8e3e0263269!4m9!1m2!2m1!1z57WQ5p6cIDctRUxFVkVuIOaoguWtuOmWgOW4giAzLjMoOSkg5L6_5Yip5bqXIMK3IOaoguWWhOS6jOi3rzUwNeiZnzHmqJMgMjQg5bCP5pmC54ef5qWtIMK3IDAzIDMyNyAxNjcyIOe2suermSDntrLnq5kg6KaP5YqD6Lev57eaIOimj-WKg-i3r-e3miAgIOW6l-WFp-izvOeJqSDCtyDkvoblupflj5bosqggNy1FTEVWRU4g5qiC5ZaE6ZaA5biCIDMuOSgyNykg5L6_5Yip5bqXIMK3IOaWh-aYjui3rzEzMeiZnzHmqJMg6LKp5ZSu6Zu26aOf44CB6aOy5ZOB5ZKM6Zuc6LKo55qE5LyR5oap6JmVIOeHn-alreS4rSDii4Ug57WQ5p2f54ef5qWt5pmC6ZaT77yaMjM6NDUgwrcgMDMgMzE4IDU1NDIg57ay56uZIOe2suermSDopo_lioPot6_nt5og6KaP5YqD6Lev57eaICAg5bqX5YWn6LO854mpIMK3IOS-huW6l-WPluiyqCA3LUVMRVZFbiDoj6_mqILploDluIIgMy41KDQ2KSDkvr_liKnlupcgwrcg6I-v5Lqe5LiJ6LevMTk16JmfIDE5N-iZnzHmqJMgMjQg5bCP5pmC54ef5qWtIMK3IDAzIDMyNyA3NTAzIOe2suermSDntrLnq5kg6KaP5YqD6Lev57eaIOimj-WKg-i3r-e3miAgIOW6l-WFp-izvOeJqSDCtyDkvoblupflj5bosqggNy1FTEVWRU4g6b6c5bGx5buj6YGU6ZaA5biCIDQuNyg2OCkg5L6_5Yip5bqXIMK3IOaWh-WMluS6jOi3rzIxMeiZnyDosqnllK7pm7bpo5_jgIHpo7Llk4Hlkozpm5zosqjnmoTkvJHmhqnomZUg54ef5qWt5LitIOKLhSDntZDmnZ_nh5_mpa3mmYLplpPvvJoyMzowMCDCtyAwMyAzMTggMzk4NSDntrLnq5kg57ay56uZIOimj-WKg-i3r-e3miDopo_lioPot6_nt5ogICDlupflhafos7zniakgwrcg5L6G5bqX5Y-W6LKoIMK3IOWklumAgSA3LUVMRVZFbiDmlofmjbfploDluIIgMy4yKDEwNSkg5L6_5Yip5bqXIMK3IOaWh-ahg-i3rzQyNuiZnyDosqnllK7pm7bpo5_jgIHpo7Llk4Hlkozpm5zosqjnmoTkvJHmhqnomZUgMjQg5bCP5pmC54ef5qWtIMK3IDAzIDM5NyA5NDU4IOe2suermSDntrLnq5kg6KaP5YqD6Lev57eaIOimj-WKg-i3r-e3miAgIOW6l-WFp-izvOeJqSDCtyDkvoblupflj5bosqggNy1FTEVWRU4g6I-v5Lqe5paH5YyW6ZaA5biCIDMuNSg0Nikg5L6_5Yip5bqXIMK3IOaWh-WMluS4gOi3rzg25LmLNTXomZ8g6LKp5ZSu6Zu26aOf44CB6aOy5ZOB5ZKM6Zuc6LKo55qE5LyR5oap6JmVIDI0IOWwj-aZgueHn-alrSDCtyAwMyAzOTcgMzcxMyDntrLnq5kg57ay56uZIOimj-WKg-i3r-e3miDopo_lioPot6_nt5ogICDlupflhafos7zniakgwrcg5L6G5bqX5Y-W6LKoIDctRUxFVkVOIOWHseiPr-mWgOW4giAzLjAoOTMpIOS-v-WIqeW6lyDCtyDmlofljJbkuozot68xODPomZ8xIOaokyDosqnllK7pm7bpo5_jgIHpo7Llk4Hlkozpm5zosqjnmoTkvJHmhqnomZUgMjQg5bCP5pmC54ef5qWtIMK3IDAzIDMyOCAzMjQ5IOe2suermSDntrLnq5kg6KaP5YqD6Lev57eaIOimj-WKg-i3r-e3miAgIOW6l-WFp-izvOeJqSDCtyDkvoblupflj5bosqggwrcg5aSW6YCBIDctRUxFVkVOIOWPi-mBlOmbu-mWgOW4gijkuI3lsI3lpJbplovmlL4pIDMuMyg4KSDkvr_liKnlupcgwrcgQjEsIE5vLiAxODnomZ_oj6_kup7kuozot68g6LKp5ZSu6Zu26aOf44CB6aOy5ZOB5ZKM6Zuc6LKo55qE5LyR5oap6JmVIDI0IOWwj-aZgueHn-alrSDCtyAwMyAzMTggNzU2NCDntrLnq5kg57ay56uZIOimj-WKg-i3r-e3miDopo_lioPot6_nt5ogICDlupflhafos7zniakgwrcg5L6G5bqX5Y-W6LKoIDctRUxFVkVOIOWvjOS6qOmWgOW4giAzLjcoODQpIOS-v-WIqeW6lyDCtyDmlofpnZLot68yMDbomZ8yMTDomZ8x5qiTMjA4IOiyqeWUrumbtumjn-OAgemjsuWTgeWSjOmbnOiyqOeahOS8keaGqeiZlSAyNCDlsI_mmYLnh5_mpa0gwrcgMDMgMzI3IDUzMDcg57ay56uZIOe2suermSDopo_lioPot6_nt5og6KaP5YqD6Lev57eaICAg5bqX5YWn6LO854mpIMK3IOS-huW6l-WPluiyqCA3LUVMRVZFbiDmgYbogIDploDluIIgNC4zKDYpIOS-v-WIqeW6lyDCtyDmqILlrbjot68xMTHomZ8gMTEz6JmfMeaokyAyNCDlsI_mmYLnh5_mpa0gwrcgMDMgMzI3IDUzNzcg57ay56uZIOe2suermSDopo_lioPot6_nt5og6KaP5YqD6Lev57eaICAg5bqX5YWn6LO854mpIMK3IOS-huW6l-WPluiyqCDCtyDlpJbpgIEg5Zyw5ZyW56e75YuV5pmC5pu05paw57WQ5p6cICAzMiDlvLXnm7jniYcgNy1FTEVWRW4g5paH5o236ZaA5biC!3m5!1s0x3442a7aa92ef1f95:0xc9e03c08b09f46b7!8m2!3d25.0404702!4d121.3875906!16s%2Fg%2F11j19r_jzw?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "有巢氏房屋-林口文青合宜加盟店",
+            "name": "有巢氏房屋 林口文青合宜加盟店",
             "id": "S5-008",
             "type": "住",
             "address": "桃園市龜山區文青路157號",
@@ -1189,7 +1189,7 @@
             "google": "https://www.google.com/maps/place/%E4%BF%A1%E7%BE%A9%E6%88%BF%E5%B1%8BA7%E9%87%8D%E5%8A%83%E5%BA%97/@25.0403298,121.3882476,21z/data=!4m6!3m5!1s0x3442a7c5d01b63b1:0x751193dd71c939c1!8m2!3d25.0403413!4d121.3883012!16s%2Fg%2F11rd2by83h?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "唐璞烘焙-A7文青門市",
+            "name": "唐璞烘焙 A7文青門市",
             "id": "S5-015",
             "type": "食",
             "address": "桃園市龜山區文青路205號",
@@ -1204,7 +1204,7 @@
             "google": "https://www.google.com/maps/place/%E5%94%90%E7%92%9E%E7%83%98%E7%84%99-A7%E6%96%87%E9%9D%92%E9%96%80%E5%B8%82/@25.0403268,121.3884836,21z/data=!4m6!3m5!1s0x3442a771e34be65f:0x4983b9e81a88c82!8m2!3d25.040369!4d121.388753!16s%2Fg%2F11g81g0z5f?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "簡單快剪-A7文青旗艦店",
+            "name": "簡單快剪 A7文青旗艦店",
             "id": "S5-016",
             "type": "美",
             "address": "桃園市龜山區文青路203號2樓",
@@ -1261,7 +1261,7 @@
             "google": "https://www.google.com/maps/place/%E3%80%90%E6%B0%B8%E6%85%B6%E4%B8%8D%E5%8B%95%E7%94%A2%E3%80%91%E6%9E%97%E5%8F%A3A7%E6%96%87%E9%9D%92%E5%8A%A0%E7%9B%9F%E5%BA%97__A7%E7%AC%AC%E4%B8%80%E5%AE%B6%E6%88%BF%E4%BB%B2%E5%9C%98%E9%9A%8A/@25.0402749,121.3887461,21z/data=!4m6!3m5!1s0x3442a78bf48d24fd:0xe59ca94ce7553539!8m2!3d25.0402865!4d121.3889052!16s%2Fg%2F11jx32wpgj?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "美廉社-龜山文青店",
+            "name": "美廉社 龜山文青店",
             "id": "S5-020",
             "type": "食",
             "address": "桃園市龜山區文青路211號",
@@ -1291,7 +1291,7 @@
             "google": "https://www.google.com/maps/place/%E5%85%A8%E5%AE%B6%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97+%E9%BE%9C%E5%B1%B1%E6%96%B0%E5%9F%8E%E5%BA%97/@25.0402749,121.3887461,21z/data=!4m6!3m5!1s0x3442a771ec76974d:0x29232e49941d84eb!8m2!3d25.0402165!4d121.3890402!16s%2Fg%2F11f31dynzn?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "7-ELEVEn 富騰門市",
+            "name": "7ELEVEn 富騰門市",
             "id": "S5-022",
             "type": "食",
             "address": "桃園市龜山區文青路219號1樓",
@@ -1470,7 +1470,7 @@
             "google": "https://www.google.com/maps/place/%E7%86%8A%E5%A4%A7%E6%95%B8%E4%BD%8D%E8%BC%B8%E5%87%BA%E4%BC%81%E6%A5%AD%E7%A4%BE/@25.0413786,121.3887023,20.21z/data=!4m6!3m5!1s0x3442a746abc2a8d3:0x5706bcf328a2b65c!8m2!3d25.0413552!4d121.3887039!16s%2Fg%2F11px7xj5dw?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "樂居驗屋-桃園店",
+            "name": "樂居驗屋 桃園店",
             "id": "S5-034",
             "type": "住",
             "address": "桃園市龜山區文學路220號",
@@ -1486,7 +1486,7 @@
             "google": "https://www.google.com/maps/place/%E6%A8%82%E5%B1%85%E9%A9%97%E5%B1%8B-%E6%A1%83%E5%9C%92%E5%BA%97/@25.0417525,121.3877728,19z/data=!3m1!4b1!4m6!3m5!1s0x3442a7818b4928cd:0x9fd51150d57028fa!8m2!3d25.0417525!4d121.3884165!16s%2Fg%2F11t8574wrk?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "美立購物 MagicZgo/團購電商",
+            "name": "美立購物 MagicZgo 團購電商",
             "id": "S5-035",
             "type": "行",
             "address": "桃園市龜山區文學路227號",
@@ -1573,7 +1573,7 @@
             "google": "https://www.google.com/maps/place/%E5%BA%B7%E6%98%AF%E7%BE%8E%E8%97%A5%E5%B1%80-%E6%96%87%E9%9D%92%E5%BA%97/@25.039584,121.3905404,19.99z/data=!4m6!3m5!1s0x3442a7a2a426a655:0xb219c887e208a7a2!8m2!3d25.0396091!4d121.3908854!16s%2Fg%2F11jt0pl2y3?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "7-ELEVEN 丞丞門市",
+            "name": "7ELEVEN 丞丞門市",
             "id": "S5-041",
             "type": "食",
             "address": "桃園市龜山區文青一路1號1樓",
@@ -1661,7 +1661,7 @@
             "google": "https://www.google.com/maps/place/%E5%85%94%E5%85%94%E7%9A%84%E5%BA%97%E8%94%AC%E6%9E%9C%E5%BA%97/@25.0395596,121.3869976,17z/data=!3m1!5s0x3442a771c09aa623:0x4b68ea97062ab42d!4m14!1m7!3m6!1s0x3442a7157b104329:0xf907a8ee514cd974!2z5YWU5YWU55qE5bqX6JSs5p6c5bqX!8m2!3d25.0395596!4d121.3895725!16s%2Fg%2F11tfts6sd8!3m5!1s0x3442a7157b104329:0xf907a8ee514cd974!8m2!3d25.0395596!4d121.3895725!16s%2Fg%2F11tfts6sd8?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "琍都造型Li-Do",
+            "name": "琍都造型LiDo",
             "id": "S5-047",
             "type": "美",
             "address": "桃園市龜山區文青路272號",
@@ -1675,7 +1675,7 @@
             "google": "https://www.google.com/maps/place/%E7%90%8D%E9%83%BD%E9%80%A0%E5%9E%8BLi-Do/@25.039843,121.3870723,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a771eb8a1057:0xe7129c14324ca8fd!8m2!3d25.039843!4d121.3896472!16s%2Fg%2F11ddzppwkz?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "職人眼鏡-文青店",
+            "name": "職人眼鏡 文青店",
             "id": "S5-048",
             "type": "衣",
             "address": "桃園市龜山區文青路268號",
@@ -1729,7 +1729,7 @@
             "google": "https://www.google.com/maps/place/I't%E8%A6%AA%E5%AD%90%E9%80%A0%E5%9E%8B%E6%B2%99%E9%BE%8D/@25.0397724,121.3890392,21z/data=!4m6!3m5!1s0x3442a771ef37d7b3:0xae3cb400a6bae427!8m2!3d25.0397724!4d121.3892006!16s%2Fg%2F11fxb8pbmw?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "舞感空間·運動·共學",
+            "name": "舞感空間 運動 共學",
             "id": "S5-052",
             "type": "樂",
             "address": "桃園市龜山區文青路215號2樓",
@@ -1996,7 +1996,7 @@
             "google": "https://www.google.com/maps/place/%E7%B0%A1%E5%96%AE%E5%89%AA+%E5%B0%88%E6%A5%AD%E5%89%AA%E9%AB%AE%EF%BD%9C%E6%9F%93%E9%AB%AE%EF%BD%9C%E7%87%99%E9%AB%AE/@25.038725,121.3895864,21z/data=!4m6!3m5!1s0x3442a7284de1eacd:0xe0d7f38035268b5e!8m2!3d25.0388322!4d121.3896435!16s%2Fg%2F11tczndmgd?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
-            "name": "美衣潔感恩自助洗衣店｜龜山文青店",
+            "name": "美衣潔感恩自助洗衣店 龜山文青店",
             "id": "S5-070",
             "type": "衣",
             "address": "桃園市龜山區文青二路67號",
