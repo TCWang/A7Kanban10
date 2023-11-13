@@ -6,7 +6,7 @@
     <RestaurantDetailDescription :description="restaurant.description" />
     <RestaurantDetailContact /> -->
 
-    <ShopBack :area="shop.area" />
+    <ShopBack :area="shop.category" />
   </div>
 </template>
 
