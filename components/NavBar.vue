@@ -39,7 +39,7 @@
             購物黃頁
           </a>
           <a
-            href="/local"
+            href="/area/0.A7重劃區/service"
             class="navbar-brand block mt-1 lg:inline-block lg:mt-0 text-indigo-200 hover:text-yellow-200"
           >
             在地服務
