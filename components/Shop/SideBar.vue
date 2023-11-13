@@ -1,7 +1,10 @@
 <template>
   <div class="shadow border w-[200px] mr-10 z-30 h-[140px] md:h-[156px]">
     <!-- AREA START -->
-    <div class="p-2 flex justify-auto relative cursor-pointer border-b">
+    <div
+      v-if="false"
+      class="p-2 flex justify-auto relative cursor-pointer border-b"
+    >
       <h3 class="mr-2">站別</h3>
       <h3 @click="updateModal('station')" class="text-blue-400 capitalize">
         A7
