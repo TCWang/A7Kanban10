@@ -242,18 +242,19 @@
         {
             "name": "大塊牛排",
             "id": "A7-018",
-            "type": "西式餐廳",
+            "type": "行動餐車",
             "address": "桃園市龜山區文德路樂學路交叉口",
             "telphone": "0983-397-382",
             "hours": "週一及週四 16:00 - 21:00",
             "figure": "RES-A7-018.jpeg",
-            "figureLogo": "RES-A7-018.jpeg",
+            "figureLogo": "RES-A7-079L.jpeg",
             "facebook": "https://www.facebook.com/profile.php?id=100078423543804",
             "line": "https://line.me/R/ti/p/%40030vqjvt",
             "menu": "https://www.facebook.com/photo/?fbid=278606918096758&set=pb.100078423543804.-2207520000",
             "category": "A7",
             "category2": "1.樂善國小區",
             "category3": "樂學路",
+            "description": "\"<p>訂餐範例：\r\n訂餐場次：10/30\r\n餐點名稱：板腱牛排,\r\n醬料：（蘑菇醬、黑胡椒醬、或 綜合醬）,\r\n取餐時間：,\r\n取餐名稱：錢小姐 <br>\r\n因物價上漲即日起不在贈送濃湯敬請諒解\r\n</p>\"",
             "google": "https://www.google.com.tw/maps/place/%E5%A4%A7%E5%A1%8A%E7%89%9B%E6%8E%92/@25.0567614,121.3813803,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a7a6f106274d:0x8f35922046726be2!8m2!3d25.0567614!4d121.3833597?hl=zh-TW&authuser=0"
         },
         {
@@ -1100,22 +1101,6 @@
             "category": "A7",
             "category2": "5.合宜住宅區",
             "description": "<p>注意事項:\r\n粉絲專頁私訊/Line/電話皆可找到我們，再麻煩留以下資訊，我們收到訊息後有回覆才算訂購成功喔～<br>\r\n姓氏:,\r\n電話:,\r\n餐車地點:,\r\n取餐日/時間:,\r\n口味/吋:\r\n</p>"
-        },
-        {
-            "name": "大塊牛排行動餐車",
-            "id": "A7-079",
-            "type": "行動餐車",
-            "address": "桃園市龜山區長庚醫護社區（文德路，樂學路交叉口）",
-            "hours": "週一,四 16:00 - 20:00",
-            "figure": "RES-A7-079.jpeg",
-            "figureLogo": "RES-A7-079L.jpeg",
-            "web": "https://joy.bio/missyou?fbclid=IwAR02VF_AM6rA_88mX_lM1PDqkUxmVZA2DlGPFUHG34kOZDmNmz9qyMRATTI",
-            "facebook": "https://www.facebook.com/people/%E5%A4%A7%E5%A1%8A%E7%89%9B%E6%8E%92%E8%A1%8C%E5%8B%95%E9%A4%90%E8%BB%8A/100078423543804/",
-            "line": "https://liff.line.me/1645278921-kWRPP32q/?accountId=676cdxan",
-            "menu": "https://www.facebook.com/photo/?fbid=166968445903871&set=pcb.166968469237202",
-            "category": "A7",
-            "category2": "1.樂善國小區",
-            "description": "<p>訂餐範例：\r\n訂餐場次：10/30\r\n餐點名稱：板腱牛排,\r\n醬料：（蘑菇醬、黑胡椒醬、或 綜合醬）,\r\n取餐時間：,\r\n取餐名稱：錢小姐 <br>\r\n因物價上漲即日起不在贈送濃湯敬請諒解\r\n</p>"
         },
         {
             "name": "有球必應地瓜球 龜山文青店",
