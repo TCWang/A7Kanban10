@@ -1132,6 +1132,23 @@
             "google": "https://www.google.com/maps/place/%E6%9C%89%E7%90%83%E5%BF%85%E6%87%89%E5%9C%B0%E7%93%9C%E7%90%83+%E9%BE%9C%E5%B1%B1%E6%96%87%E9%9D%92%E5%BA%97/@25.0397063,121.3869861,17z/data=!3m2!4b1!5s0x3442a771c09aa623:0x4b68ea97062ab42d!4m6!3m5!1s0x3442a74885f1a2b7:0xf9133bf79327f4ad!8m2!3d25.0397015!4d121.389561!16s%2Fg%2F11vdfh48f1?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
+            "name": "放飯 • FunFind Brunch",
+            "id": "A7-081",
+            "type": "早午餐",
+            "address": "桃園市龜山區文化二路528號一樓",
+            "telphone": "03-260-9668",
+            "hours": "08:00 - 15:00 週三四公休",
+            "figure": "RES-A7-081.jpeg",
+            "figureLogo": "RES-A7-081L.jpeg",
+            "ig": "https://www.instagram.com/funfind528",
+            "uber": "https://www.ubereats.com/tw/store/%E6%94%BE%E9%A3%AF%E6%97%A9%E5%8D%88%E9%A4%90-funfind-brunch/VKxJUersXdClHFK3Lga-7A?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "suggestion": "https://www.walkerland.com.tw/article/view/375197",
+            "category": "A7",
+            "category2": "3.中心商業區",
+            "score": "4.8",
+            "google": "https://www.google.com/maps/place/%E6%94%BE%E9%A3%AF+%E2%80%A2+FunFind+Brunch/@25.048621,121.3821663,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN4pL8zv2mEtNOQxBa-3tTRNc7VelcbvbiuoG9F!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN4pL8zv2mEtNOQxBa-3tTRNc7VelcbvbiuoG9F%3Dw298-h298-k-no!7i3024!8i3024!4m9!3m8!1s0x3442a7d3be464261:0x9fcb40196cc499d1!8m2!3d25.048621!4d121.3821663!10e5!14m1!1BCgIgAQ!16s%2Fg%2F11v19lq9lt?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",
