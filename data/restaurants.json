@@ -2236,6 +2236,23 @@
             "google": "https://www.google.com/maps/place/%E7%8E%96%E7%88%90%E7%B2%BE%E7%B7%BB%E9%8D%8B%E7%89%A9-%E6%9E%97%E5%8F%A3%E9%95%B7%E5%BA%9A%E5%BA%97/@25.0527632,121.3671907,18.9z/data=!4m6!3m5!1s0x3442a7306dd22b8d:0x46389e561cf3ce6!8m2!3d25.052783!4d121.368052!16s%2Fg%2F11ddxkg07g?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
+            "name": "轉雞炸物專賣店",
+            "id": "A8-071",
+            "type": "火鍋燒烤",
+            "address": "桃園市龜山區復興北路6巷21號",
+            "telphone": "0902-156-076",
+            "hours": "14:00 - 00:00 週二公休",
+            "figure": "RES-A8-071.jpeg",
+            "figureLogo": "RES-A8-071L.jpeg",
+            "facebook": "https://www.facebook.com/profile.php?id=100063955360733",
+            "uber": "https://www.ubereats.com/tw/store/%E8%BD%89%E9%9B%9E%E7%82%B8%E7%89%A9%E5%B0%88%E8%B3%A3%E5%BA%97/bBIh6mvLR62QrHv7AoMNJw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "panda": "https://www.foodpanda.com.tw/restaurant/a3nv/zhuan-ji-zha-wu-zhuan-mai-dian-gui-shan-dian?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action",
+            "suggestion": "https://www.youtube.com/watch?app=desktop&v=TKITM2yEPlo&fbclid=IwAR1DHFXocxkk2QqSw9eg1GRsJYv7z1YiM7VrUB_oEa_25DkEWWhz-lXsItE",
+            "category": "A8",
+            "score": "4.2",
+            "google": "https://www.google.com/maps/place/%E8%BD%89%E9%9B%9E%E7%82%B8%E7%89%A9%E5%B0%88%E8%B3%A3%E5%BA%97%EF%BC%88%E9%BE%9C%E5%B1%B1%E5%BA%97%EF%BC%89/@25.0587538,121.3657878,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a71e5df3f143:0xb16e316b4904f591!8m2!3d25.0587538!4d121.3683627!16s%2Fg%2F11fmyk1drp?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "海世界複合式碳烤店",
             "id": "A9-001",
             "type": "吃到飽",
@@ -3826,6 +3843,21 @@
             "category": "A9",
             "score": "3.7",
             "google": "https://www.google.com/maps/place/True%E9%A3%AF/@25.0844476,121.3802974,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a72e37db65a7:0xca946f7f8c414591!8m2!3d25.0844476!4d121.3802974!16s%2Fg%2F11kqbx3m1d?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "林日式料理",
+            "id": "A9-096",
+            "type": "日本料理",
+            "address": "新北市林口區仁愛路二段100號",
+            "telphone": "02-2602-2989",
+            "hours": "11:30 - 14:00, 17:30 - 20:30 週一公休",
+            "figure": "RES-A9-096.jpeg",
+            "figureLogo": "RES-A9-096L.jpeg",
+            "web": "https://restaurant-93821.business.site/?utm_source=gmb&utm_medium=referral",
+            "suggestion": "https://www.youtube.com/watch?app=desktop&v=TKITM2yEPlo&fbclid=IwAR1DHFXocxkk2QqSw9eg1GRsJYv7z1YiM7VrUB_oEa_25DkEWWhz-lXsItE",
+            "category": "A9",
+            "score": "4.6",
+            "google": "https://www.google.com/maps/place/%E6%9E%97%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86/@25.0751653,121.3836258,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a79a8c490ebd:0x1b99e379cb1b9829!8m2!3d25.0751653!4d121.3836258!16s%2Fg%2F11mfccp7n1?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
             "name": "饗饗 新莊店",
