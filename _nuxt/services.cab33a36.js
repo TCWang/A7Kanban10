@@ -58,7 +58,7 @@ const e=[{name:"竹風到府修理紗門窗網",id:"L001",type:"住",telphone:"0
 選擇石英石的優缺點分析 優點太多，缺點太少……。<br>\r
 高硬度耐磨不易吃色與好維護 , 能夠自行使用菜瓜布刷檯面清潔。<br>\r
 你沒有多餘的時間出遊旅行的原因, 當別人拿菜瓜布時，你還在拿抹布<br>\r
-</p>`},{name:"40+逆齡運動俱樂部",id:"L010",type:"樂",address:"桃園市龜山區文化一路250號",telphone:"03-328-3201",hours:"08:00 - 17:00 週六日公休",figure:"LOC-010-01.jpeg",figureLogo:"LOC-010-02.png",facebook:"https://www.facebook.com/profile.php?id=100057406841370$0",line:"https://liff.line.me/1645278921-kWRPP32q/?accountId=556agjoe",category2:"A7",category:"0.A7重劃區",description:`<h3>40+逆齡運動俱樂部</h3>\r
+</p>`},{name:"40+逆齡運動俱樂部",id:"L010",type:"樂",address:"桃園市龜山區文化一路250號",telphone:"03-328-3201",hours:"08:00 - 17:00 週六日公休",figure:"LOC-010-01.jpeg",figureLogo:"LOC-010-02.png",facebook:"https://www.facebook.com/profile.php?id=100057406841370",line:"https://liff.line.me/1645278921-kWRPP32q/?accountId=556agjoe",category2:"A7",category:"0.A7重劃區",description:`<h3>40+逆齡運動俱樂部</h3>\r
 <p>國立體育大學的 40+逆齡運動俱樂部~是歐郎老師和姿蓉老師在大學時期的回憶之一，在健康學院湯文慈院長/教授的任內，40+給了我們很大的發揮空間，讓我們有許多中高齡運動的教學經驗，實際場域的磨練果真充滿酸甜苦辣卻也最深刻。40+ 在 2019 年進駐體大幫助我們練習了課程的變化與設計；訓練我們去了解每一位中高齡者的獨特性，同時也接觸到了 HUR 運動器材，這一套來自芬蘭的氣壓式阻力訓練機。</p>\r
 <p>高齡者的阻力訓練重要嗎？<br>\r
 46% 的 80 歲以上老年人可以舉起的重量不超過 5 公斤，對於 65 歲以上的男性和女性來說，力量訓練是最重要的訓練內容之一 (美國運動醫學會, ACSM)。但阻力訓練對高齡者來說彷彿有一道門檻，需要在安全、正確的前提下才能事半功倍。在接觸 HUR 這一套新的系統時我們學習到了科技的日新月異和智慧化的輔助能帶給高齡者一個更好的運動環境！</p>\r
