@@ -3942,6 +3942,37 @@
             "google": "https://www.google.com/maps/place/%E5%93%81%E7%B1%B3%E9%A3%9F%E7%A7%81%E6%88%BF%E5%B0%8F%E5%BB%9A/@25.07958,121.3849325,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a79b2834618f:0x33af54b0f0970e1a!8m2!3d25.07958!4d121.3849325!16s%2Fg%2F11s7wf9syw?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
+            "name": "龍抄手涼麵",
+            "id": "A9-102",
+            "type": "麵食餐館",
+            "address": "新北市林口區中正路153號",
+            "telphone": "02-2603-1313",
+            "hours": "10:30 - 20:00",
+            "figure": "RES-A9-102.jpeg",
+            "figureLogo": "RES-A9-102L.jpeg",
+            "menu": "https://ibb.co/WGpCGB8",
+            "suggestion": "https://www.youtube.com/watch?v=Bu0hbNA9fhw",
+            "category": "A9",
+            "score": "4.2",
+            "google": "https://www.google.com/maps/place/%E9%BE%8D%E6%8A%84%E6%89%8B%E6%B6%BC%E9%BA%B5/@25.0772348,121.3927834,17.06z/data=!4m6!3m5!1s0x3442a6e6f9de0ad7:0x89492a347d15d74!8m2!3d25.0772297!4d121.392868!16s%2Fg%2F1tnk_2hs?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "溜溜貝果（林口醒吾店）",
+            "id": "A9-103",
+            "type": "麵包蛋糕",
+            "address": "新北市林口區中正路30巷15號",
+            "telphone": "02-2602-0606",
+            "hours": "10:00 - 20:00",
+            "figure": "RES-A9-103.jpeg",
+            "figureLogo": "RES-A9-103L.jpeg",
+            "web": "https://yoyobagel.business.site/?utm_source=gmb&utm_medium=referral",
+            "uber": "https://www.ubereats.com/tw/store/%E6%BA%9C%E6%BA%9C%E8%B2%9D%E6%9E%9C-yoyo-bagel/ZfRGERmUU8KKIV8wAjDZzA?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "menu": "https://shop.ichefpos.com/store/wesBgA-2/ordering?utm_medium=google_map&utm_source=ichef_gmb_menu",
+            "category": "A9",
+            "score": "4.9",
+            "google": "https://www.google.com/maps/place/%E6%BA%9C%E6%BA%9C%E8%B2%9D%E6%9E%9C%EF%BC%88%E6%9E%97%E5%8F%A3%E9%86%92%E5%90%BE%E5%BA%97%EF%BC%89/@25.0779531,121.3914167,16.82z/data=!4m14!1m7!3m6!1s0x3442a7497bcdc639:0x1456c900ae56e4af!2z5rqc5rqc6LKd5p6c77yI5p6X5Y-j6YaS5ZC-5bqX77yJ!8m2!3d25.0779939!4d121.3959854!16s%2Fg%2F11m_fyc_5w!3m5!1s0x3442a7497bcdc639:0x1456c900ae56e4af!8m2!3d25.0779939!4d121.3959854!16s%2Fg%2F11m_fyc_5w?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "饗饗 新莊店",
             "id": "NT-001",
             "type": "吃到飽",
