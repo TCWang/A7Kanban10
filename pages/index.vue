@@ -15,7 +15,7 @@
           <p
             class="text-lg sm:text-xl md:text-2xl xl:text-3xl mb-10 text-white"
           >
-            大林口 找餐廳
+            大林口找餐廳
           </p>
           <RestaurantSearchBar />
         </div>
